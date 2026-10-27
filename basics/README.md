@@ -13,3 +13,4 @@
 - 12-file_type: prints the type of the file named iamafile located in /tmp
 - 13-symbolic_link: creates a symbolic link named __ls__ to /bin/ls in the current working directory
 - 14-copy_html: copies all .html files from the current directory to its parent, only if they are missing there or newer
+- 15-lets_move: moves all files beginning with an uppercase letter to /tmp/u
