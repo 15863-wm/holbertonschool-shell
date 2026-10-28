@@ -1,4 +1,3 @@
-# permissions
 - 0-iam_betty: switches the current user to the user betty
 - 1-who_am_i: prints the effective username of the current user
 - 2-groups: prints all the groups the current user is part of
@@ -11,4 +10,3 @@
 - 9-John_Doe: sets the mode of the file hello to -rwxr-x-wx
 - 10-mirror_permissions: sets the mode of the file hello the same as olleh's mode
 - 11-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group and other users
-- 10-mirror_permissions: sets the mode of the file hello the same as olleh's mode
