@@ -7,3 +7,4 @@
 6-create_local_variable: creates a new local variable BEST with the value School.
 8-true_knowledge: prints the result of 128 plus the value of TRUEKNOWLEDGE.
 9-divide_and_rule: prints the result of POWER divided by DIVIDE.
+10-love_exponent_breath: displays the result of BREATH to the power LOVE.
