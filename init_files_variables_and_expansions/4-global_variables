@@ -1,3 +1,2 @@
-chmod +x 4-global_variables
-wc -l 4-global_variables      
-source ./4-global_variables   
+#!/bin/bash
+printenv
