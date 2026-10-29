@@ -4,3 +4,4 @@
 - 2-path: adds /action to the PATH as the last directory the shell looks into.
 4-global_variables: lists environment variables.
 5-local_variables: lists all local variables, environment variables, and functions.
+6-create_local_variable: creates a new local variable BEST with the value School.
